@@ -9,7 +9,7 @@ print(data.info)
 # 1. End
 # ---------------------------------------------------------------------------
 # 2. Mostrar los primeros 100 registros
-print(data.head(100))
+print(data.tail(100))
 # 2. End
 # ---------------------------------------------------------------------------
 # 3. Mostrar los últimos 20 registros
